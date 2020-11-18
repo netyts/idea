@@ -50,12 +50,12 @@
       <option name="JSP" value="true" />
     </context>
   </template>
-  <template name="adbutils" value="&lt;!-- https://mvnrepository.com/artifact/commons-dbutils/commons-dbutils --&gt;&#10;&lt;dependency&gt;&#10;    &lt;groupId&gt;commons-dbutils&lt;/groupId&gt;&#10;    &lt;artifactId&gt;commons-dbutils&lt;/artifactId&gt;&#10;    &lt;version&gt;1.7&lt;/version&gt;&#10;&lt;/dependency&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="adbutils" value="&lt;!-- https://mvnrepository.com/artifact/commons-dbutils/commons-dbutils --&gt;&#10;&lt;dependency&gt;&#10;    &lt;groupId&gt;commons-dbutils&lt;/groupId&gt;&#10;    &lt;artifactId&gt;commons-dbutils&lt;/artifactId&gt;&#10;    &lt;version&gt;1.7&lt;/version&gt;&#10;&lt;/dependency&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
   </template>
-  <template name="mjstl" value="&lt;dependency&gt;&#10;    &lt;groupId&gt;javax.servlet&lt;/groupId&gt;&#10;    &lt;artifactId&gt;jstl&lt;/artifactId&gt;&#10;    &lt;version&gt;1.2&lt;/version&gt;&#10;&lt;/dependency&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="mjstl" value="&lt;dependency&gt;&#10;    &lt;groupId&gt;javax.servlet&lt;/groupId&gt;&#10;    &lt;artifactId&gt;jstl&lt;/artifactId&gt;&#10;    &lt;version&gt;1.2&lt;/version&gt;&#10;&lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
