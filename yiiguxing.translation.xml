@@ -1,0 +1,29 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="initialized" />
+      <item value="Variable 'fos' might not have been initialize" />
+      <item value="Required type" />
+      <item value="Provided" />
+      <item value="Overrides" />
+      <item value="Output Stream Writer" />
+      <item value="Duplicated code fragment (12 lines long)" />
+      <item value="Socket" />
+      <item value="Exception" />
+      <item value="get Host Address" />
+      <item value="get Local Host" />
+      <item value="get Loopback Address" />
+      <item value="get Canonical Host Name" />
+      <item value="String" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="9" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
