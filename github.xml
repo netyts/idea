@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubAccounts">
-    <account id="2360c811-701c-410d-a0bc-558e1a7c33b4" name="netyts">
-      <server host="github.com" />
-    </account>
-  </component>
-</application>
