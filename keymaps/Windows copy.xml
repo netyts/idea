@@ -18,6 +18,9 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="ViewMainMenu">
     <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
   </action>
