@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/netyts/servletdemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/webrx/hello" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Users\18939\idea-workspace" />
