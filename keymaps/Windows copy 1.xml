@@ -1,0 +1,8 @@
+<keymap version="1" name="Windows copy 1" parent="$default">
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" />
+  </action>
+  <action id="ViewMainMenu">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
+</keymap>
