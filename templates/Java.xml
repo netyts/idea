@@ -1,5 +1,5 @@
 <templateSet group="Java">
-  <template name="try" value="        try {&#10;        &#10;        } catch (Exception e) {&#10;            e.printStackTrace();&#10;        }" description="" toReformat="false" toShortenFQNames="true">
+  <template name="try" value="try {&#10;&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
