@@ -60,4 +60,9 @@
       <option name="MAVEN" value="true" />
     </context>
   </template>
+  <template name="mdruid" value="&lt;!-- https://mvnrepository.com/artifact/com.alibaba/druid --&gt;&#10;&lt;dependency&gt;&#10;    &lt;groupId&gt;com.alibaba&lt;/groupId&gt;&#10;    &lt;artifactId&gt;druid&lt;/artifactId&gt;&#10;    &lt;version&gt;1.2.3&lt;/version&gt;&#10;&lt;/dependency&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
 </templateSet>
