@@ -1,26 +1,26 @@
 <templateSet group="user">
-  <template name="jsp" value="&#10;&lt;%@ page contentType=&quot;text/html;charset=UTF-8&quot; language=&quot;java&quot; %&gt;&#10;&lt;html&gt;&#10;  &lt;head&gt;&#10;    &lt;title&gt;title&lt;/title&gt;&#10;  &lt;/head&gt;&#10;  &lt;body&gt;&#10;    $END$&#10;  &lt;/body&gt;&#10;&lt;/html&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="jsp" value="&lt;%@ page contentType=&quot;text/html;charset=UTF-8&quot; language=&quot;java&quot; %&gt;&#10;&lt;html&gt;&#10;&lt;head&gt;&#10;  &lt;title&gt;title&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;  $END$&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JSP" value="true" />
       <option name="MAVEN" value="true" />
     </context>
   </template>
-  <template name="mjdk" value="  &lt;properties&gt;&#10;    &lt;project.build.sourceEncoding&gt;UTF-8&lt;/project.build.sourceEncoding&gt;&#10;    &lt;maven.compiler.source&gt;15&lt;/maven.compiler.source&gt;&#10;    &lt;maven.compiler.target&gt;15&lt;/maven.compiler.target&gt;&#10;  &lt;/properties&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="mjdk" value="&lt;properties&gt;&#10;  &lt;project.build.sourceEncoding&gt;UTF-8&lt;/project.build.sourceEncoding&gt;&#10;  &lt;maven.compiler.source&gt;15&lt;/maven.compiler.source&gt;&#10;  &lt;maven.compiler.target&gt;15&lt;/maven.compiler.target&gt;&#10;&lt;/properties&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
   </template>
-  <template name="mjunit" value="    &lt;dependency&gt;&#10;      &lt;groupId&gt;junit&lt;/groupId&gt;&#10;      &lt;artifactId&gt;junit&lt;/artifactId&gt;&#10;      &lt;version&gt;4.13.1&lt;/version&gt;&#10;      &lt;scope&gt;test&lt;/scope&gt;&#10;    &lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="mjunit" value="&lt;dependency&gt;&#10;  &lt;groupId&gt;junit&lt;/groupId&gt;&#10;  &lt;artifactId&gt;junit&lt;/artifactId&gt;&#10;  &lt;version&gt;4.13.1&lt;/version&gt;&#10;  &lt;scope&gt;test&lt;/scope&gt;&#10;&lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
   </template>
-  <template name="mmysql" value="    &lt;dependency&gt;&#10;      &lt;groupId&gt;mysql&lt;/groupId&gt;&#10;      &lt;artifactId&gt;mysql-connector-java&lt;/artifactId&gt;&#10;      &lt;version&gt;8.0.22&lt;/version&gt;&#10;    &lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="mmysql" value="&lt;dependency&gt;&#10;  &lt;groupId&gt;mysql&lt;/groupId&gt;&#10;  &lt;artifactId&gt;mysql-connector-java&lt;/artifactId&gt;&#10;  &lt;version&gt;8.0.22&lt;/version&gt;&#10;&lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
   </template>
-  <template name="mlombok" value="        &lt;dependency&gt;&#10;            &lt;groupId&gt;org.projectlombok&lt;/groupId&gt;&#10;            &lt;artifactId&gt;lombok&lt;/artifactId&gt;&#10;            &lt;version&gt;1.18.16&lt;/version&gt;&#10;            &lt;scope&gt;provided&lt;/scope&gt;&#10;        &lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="mlombok" value="&lt;dependency&gt;&#10;    &lt;groupId&gt;org.projectlombok&lt;/groupId&gt;&#10;    &lt;artifactId&gt;lombok&lt;/artifactId&gt;&#10;    &lt;version&gt;1.18.16&lt;/version&gt;&#10;    &lt;scope&gt;provided&lt;/scope&gt;&#10;&lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
@@ -30,17 +30,17 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="mjar" value="        &lt;dependency&gt;&#10;            &lt;groupId&gt;util&lt;/groupId&gt;&#10;            &lt;artifactId&gt;util&lt;/artifactId&gt;&#10;            &lt;version&gt;1.0&lt;/version&gt;&#10;            &lt;scope&gt;system&lt;/scope&gt;&#10;            &lt;systemPath&gt;E:/softPackage/dbutil-1.0.jar&lt;/systemPath&gt;&#10;        &lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="mjar" value="&lt;dependency&gt;&#10;    &lt;groupId&gt;util&lt;/groupId&gt;&#10;    &lt;artifactId&gt;util&lt;/artifactId&gt;&#10;    &lt;version&gt;1.0&lt;/version&gt;&#10;    &lt;scope&gt;system&lt;/scope&gt;&#10;    &lt;systemPath&gt;E:/softPackage/dbutil-1.0.jar&lt;/systemPath&gt;&#10;&lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
   </template>
-  <template name="whtml" value="    &lt;jsp-config&gt;&#10;        &lt;jsp-property-group&gt;&#10;            &lt;url-pattern&gt;*.html&lt;/url-pattern&gt;&#10;            &lt;page-encoding&gt;UTF-8&lt;/page-encoding&gt;&#10;        &lt;/jsp-property-group&gt;&#10;    &lt;/jsp-config&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="whtml" value="&lt;jsp-config&gt;&#10;    &lt;jsp-property-group&gt;&#10;        &lt;url-pattern&gt;*.html&lt;/url-pattern&gt;&#10;        &lt;page-encoding&gt;UTF-8&lt;/page-encoding&gt;&#10;    &lt;/jsp-property-group&gt;&#10;&lt;/jsp-config&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="mpro" value="    &lt;build&gt;&#10;        &lt;finalName&gt;${project.artifactId}&lt;/finalName&gt;&#10;        &lt;testSourceDirectory&gt;src/test/java&lt;/testSourceDirectory&gt;&#10;        &lt;sourceDirectory&gt;src/main/java&lt;/sourceDirectory&gt;&#10;        &lt;!-- 处理无法加载资源配置文件 --&gt;&#10;        &lt;resources&gt;&#10;            &lt;resource&gt;&#10;                &lt;directory&gt;src/main/java&lt;/directory&gt;&#10;                &lt;includes&gt;&#10;                    &lt;include&gt;**/*.xml&lt;/include&gt;&#10;                    &lt;include&gt;**/*.properties&lt;/include&gt;&#10;                &lt;/includes&gt;&#10;            &lt;/resource&gt;&#10;            &lt;resource&gt;&#10;                &lt;directory&gt;src/main/resources&lt;/directory&gt;&#10;                &lt;includes&gt;&#10;                    &lt;include&gt;**/*.xml&lt;/include&gt;&#10;                    &lt;include&gt;**/*.properties&lt;/include&gt;&#10;                &lt;/includes&gt;&#10;            &lt;/resource&gt;&#10;        &lt;/resources&gt;&#10;    &lt;/build&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="mpro" value="&lt;build&gt;&#10;    &lt;finalName&gt;${project.artifactId}&lt;/finalName&gt;&#10;    &lt;testSourceDirectory&gt;src/test/java&lt;/testSourceDirectory&gt;&#10;    &lt;sourceDirectory&gt;src/main/java&lt;/sourceDirectory&gt;&#10;    &lt;!-- 处理无法加载资源配置文件 --&gt;&#10;    &lt;resources&gt;&#10;        &lt;resource&gt;&#10;            &lt;directory&gt;src/main/java&lt;/directory&gt;&#10;            &lt;includes&gt;&#10;                &lt;include&gt;**/*.xml&lt;/include&gt;&#10;                &lt;include&gt;**/*.properties&lt;/include&gt;&#10;            &lt;/includes&gt;&#10;        &lt;/resource&gt;&#10;        &lt;resource&gt;&#10;            &lt;directory&gt;src/main/resources&lt;/directory&gt;&#10;            &lt;includes&gt;&#10;                &lt;include&gt;**/*.xml&lt;/include&gt;&#10;                &lt;include&gt;**/*.properties&lt;/include&gt;&#10;            &lt;/includes&gt;&#10;        &lt;/resource&gt;&#10;    &lt;/resources&gt;&#10;&lt;/build&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
@@ -61,6 +61,11 @@
     </context>
   </template>
   <template name="mdruid" value="&lt;!-- https://mvnrepository.com/artifact/com.alibaba/druid --&gt;&#10;&lt;dependency&gt;&#10;    &lt;groupId&gt;com.alibaba&lt;/groupId&gt;&#10;    &lt;artifactId&gt;druid&lt;/artifactId&gt;&#10;    &lt;version&gt;1.2.3&lt;/version&gt;&#10;&lt;/dependency&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
+  <template name="mdbutil" value="&lt;dependency&gt;&#10;    &lt;groupId&gt;commons-dbutils&lt;/groupId&gt;&#10;    &lt;artifactId&gt;commons-dbutils&lt;/artifactId&gt;&#10;    &lt;version&gt;1.7&lt;/version&gt;&#10;&lt;/dependency&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
