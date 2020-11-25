@@ -60,12 +60,12 @@
       <option name="MAVEN" value="true" />
     </context>
   </template>
-  <template name="mdruid" value="&lt;!-- https://mvnrepository.com/artifact/com.alibaba/druid --&gt;&#10;&lt;dependency&gt;&#10;    &lt;groupId&gt;com.alibaba&lt;/groupId&gt;&#10;    &lt;artifactId&gt;druid&lt;/artifactId&gt;&#10;    &lt;version&gt;1.2.3&lt;/version&gt;&#10;&lt;/dependency&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="mdruid" value="&lt;!-- https://mvnrepository.com/artifact/com.alibaba/druid --&gt;&#10;&lt;dependency&gt;&#10;    &lt;groupId&gt;com.alibaba&lt;/groupId&gt;&#10;    &lt;artifactId&gt;druid&lt;/artifactId&gt;&#10;    &lt;version&gt;1.2.3&lt;/version&gt;&#10;&lt;/dependency&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
   </template>
-  <template name="mdbutil" value="&lt;dependency&gt;&#10;    &lt;groupId&gt;commons-dbutils&lt;/groupId&gt;&#10;    &lt;artifactId&gt;commons-dbutils&lt;/artifactId&gt;&#10;    &lt;version&gt;1.7&lt;/version&gt;&#10;&lt;/dependency&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="mdbutil" value="&lt;dependency&gt;&#10;    &lt;groupId&gt;commons-dbutils&lt;/groupId&gt;&#10;    &lt;artifactId&gt;commons-dbutils&lt;/artifactId&gt;&#10;    &lt;version&gt;1.7&lt;/version&gt;&#10;&lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
