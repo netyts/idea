@@ -70,7 +70,7 @@
       <option name="MAVEN" value="true" />
     </context>
   </template>
-  <template name="mmail" value="&lt;dependency&gt;&#10;    &lt;groupId&gt;javax.mail&lt;/groupId&gt;&#10;    &lt;artifactId&gt;mail&lt;/artifactId&gt;&#10;    &lt;version&gt;1.4.7&lt;/version&gt;&#10;&lt;/dependency&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="mmail" value="&lt;dependency&gt;&#10;    &lt;groupId&gt;javax.mail&lt;/groupId&gt;&#10;    &lt;artifactId&gt;mail&lt;/artifactId&gt;&#10;    &lt;version&gt;1.4.7&lt;/version&gt;&#10;&lt;/dependency&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
